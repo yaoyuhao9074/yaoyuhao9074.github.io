@@ -10,7 +10,7 @@
       <p><b>地址：浙江省宁波市海曙区</b></p>
     </td>
     <td width="25%">
-     <img src="/yaoyuhao.jpg" width="100%"> 
+    
     </td>
   </tr>
 </table>
